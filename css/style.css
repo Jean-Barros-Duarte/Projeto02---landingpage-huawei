@@ -19,8 +19,9 @@ svg {
 .back-cinza {
   position: fixed;
   height: 90.5%;
-  right: 200px;
+  right: 165px;
   bottom: 0px;
+  width: 600px;
   z-index: -1;
 }
 
@@ -41,12 +42,14 @@ header {
 ul {
   list-style: none;
   display: flex;
-  gap: 40px;
+  gap: 41px;
   margin: 0px;
   padding: 0px;
 }
 
 ul li a {
+  font-size: 18px;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -67,7 +70,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border: 1px solid blue;
+  /*  border: 1px solid blue; */
 }
 
 h1 {
@@ -86,6 +89,28 @@ section p {
   color: #7d7987;
 }
 
+.icons {
+  position: absolute;
+  top: 50%;
+  right: 30px;
+  transform: translateY(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.icons li {
+  list-style: none;
+}
+
+.icons li a {
+  display: inline-block;
+  filter: invert(1);
+  margin: 1px 0px;
+  transform: scale(0.8);
+}
+
 button {
   font-size: 16px;
   font-family: "Dm Sans" sans-serif;
@@ -95,7 +120,7 @@ button {
   border: #b4b4b4 solid 1.5px;
   border-radius: 8px;
   padding: 13px 30px;
-  margin-top: 20px;
+  margin-top: 30px;
 
   display: flex;
   align-items: center;
@@ -119,7 +144,7 @@ button:hover {
 }
 **/
 footer {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 20px;
 
   text-align: center;
