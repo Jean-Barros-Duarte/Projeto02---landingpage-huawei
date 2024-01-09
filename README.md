@@ -19,4 +19,5 @@
 
 <h3>Preview:</h3>
 
-![image](https://github.com/Jean-Barros-Duarte/0/assets/55865323/5da6a8e4-40fa-4aab-9228-991a84155e65)
+![image](https://github.com/Jean-Barros-Duarte/Projeto02---landingpage-huawei/assets/55865323/8195a448-9128-488e-b4a2-e69fe48e6681)
+
