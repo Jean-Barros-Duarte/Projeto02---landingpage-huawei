@@ -18,15 +18,15 @@ svg {
 
 .back-cinza {
   position: fixed;
-  height: 90.5%;
-  right: 165px;
+  height: 105%;
+  right: 210px;
   bottom: 0px;
-  width: 600px;
+  width: 500px;
   z-index: -1;
 }
 
 .page {
-  border: 1px solid blue;
+  /*  border: 1px solid blue;*/
   width: 1500px;
   margin: 0px auto;
   padding: 60px;
@@ -65,7 +65,8 @@ h1 {
   font-family: "Mulish", sans-serif;
 }
 
-/*---------------------- corpo da pagina ----------------------*/
+/*==============================================================*/
+/*----------------------  CORPO DA PAGINA ----------------------*/
 main {
   display: flex;
   align-items: center;
@@ -91,9 +92,10 @@ section p {
 
 .icons {
   position: absolute;
-  top: 50%;
-  right: 30px;
+  top: 40%;
+  right: 150px;
   transform: translateY(-50%);
+
   display: flex;
   justify-content: center;
   align-items: center;
@@ -107,8 +109,8 @@ section p {
 .icons li a {
   display: inline-block;
   filter: invert(1);
-  margin: 1px 0px;
-  transform: scale(0.8);
+  margin: 0.5px 0px;
+  transform: scale(0.87);
 }
 
 button {
@@ -143,6 +145,8 @@ button:hover {
   transform: rotate(10deg);
 }
 **/
+/*============================================================*/
+/*----------------------  FIM DA PAGINA ----------------------*/
 footer {
   font-size: 14px;
   line-height: 20px;
