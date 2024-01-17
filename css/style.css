@@ -26,8 +26,8 @@ svg {
 
 .back-cinza {
   position: fixed;
-  height: 105%;
-  right: 120px;
+  height: 110%;
+  right: 210px;
   bottom: 0px;
   width: 445px;
   z-index: -1;
@@ -94,8 +94,8 @@ section p {
 
 .icons {
   position: absolute;
-  top: 46%;
-  right: 70px;
+  top: 42%;
+  right: 160px;
   transform: translateY(-50%);
 
   display: flex;
@@ -154,7 +154,7 @@ footer {
   line-height: 20px;
 
   text-align: center;
-  margin-top: 100px;
+  margin-top: 125px;
 
   color: #7d7987;
 }
