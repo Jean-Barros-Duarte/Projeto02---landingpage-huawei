@@ -16,21 +16,23 @@ svg {
 }
 */
 
-.back-cinza {
-  position: fixed;
-  height: 105%;
-  right: 210px;
-  bottom: 0px;
-  width: 500px;
-  z-index: -1;
-}
-
 .page {
   /*  border: 1px solid blue;*/
   width: 1500px;
   margin: 0px auto;
   padding: 60px;
 }
+
+
+.back-cinza {
+  position: fixed;
+  height: 105%;
+  right: 120px;
+  bottom: 0px;
+  width: 445px;
+  z-index: -1;
+}
+
 
 header {
   display: flex;
@@ -92,8 +94,8 @@ section p {
 
 .icons {
   position: absolute;
-  top: 40%;
-  right: 150px;
+  top: 46%;
+  right: 70px;
   transform: translateY(-50%);
 
   display: flex;
@@ -152,7 +154,7 @@ footer {
   line-height: 20px;
 
   text-align: center;
-  margin-top: 190px;
+  margin-top: 100px;
 
   color: #7d7987;
 }
@@ -173,17 +175,17 @@ footer span {
 
   .back-cinza {
     position: fixed;
-    height: 109%;
-    right: 101px;
+    height: 119%;
+    right: 100px;
     bottom: 0px;
-    width: 475px;
+    width: 420px;
     z-index: -1;
   }
 
   .icons {
     position: absolute;
-    top: 38%;
-    right: 55px;
+    top: 39%;
+    right: 49px;
     transform: translateY(-50%);
 
     display: flex;
@@ -196,7 +198,7 @@ footer span {
     line-height: 35px;
 
     text-align: center;
-    margin-top: 178px;
+    margin-top: 80px;
 
     color: #7d7987;
   }
@@ -212,16 +214,16 @@ footer span {
 
   .back-cinza {
     position: fixed;
-    height: 105%;
+    height: 110%;
     right: 70px;
     bottom: 0px;
-    width: 475px;
+    width: 455px;
     z-index: -1;
   }
 
   .icons {
     position: absolute;
-    top: 40%;
+    top: 43%;
     right: 25px;
     transform: translateY(-50%);
 
@@ -236,7 +238,7 @@ footer span {
     line-height: 35px;
 
     text-align: center;
-    margin-top: 195px;
+    margin-top: 80px;
 
     color: #7d7987;
   }
@@ -252,7 +254,7 @@ footer span {
 
   .back-cinza {
     position: fixed;
-    height: 100%;
+    height: 115%;
     right: 65px;
     bottom: 0px;
     width: 350px;
@@ -275,7 +277,7 @@ footer span {
   }
 
   ul li a {
-    font-size: 15px;
+    font-size: 14px;
     color: #000000;
     text-decoration: none;
   }
@@ -288,7 +290,7 @@ footer span {
   }
 
   section p {
-    font-size: 15px;
+    font-size: 13px;
     line-height: 20px;
     color: #7d7987;
   }
@@ -303,7 +305,7 @@ footer span {
 
   .icons {
     position: absolute;
-    top: 43%;
+    top: 42%;
     right: 25px;
     transform: translateY(-50%);
 
@@ -325,11 +327,11 @@ footer span {
   }
 
   footer {
-    font-size: 14px;
+    font-size: 13px;
     line-height: 35px;
 
     text-align: center;
-    margin-top: 65px;
+    margin-top: 14px;
 
     color: #7d7987;
   }
