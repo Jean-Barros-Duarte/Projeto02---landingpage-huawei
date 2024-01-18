@@ -175,17 +175,17 @@ footer span {
 
   .back-cinza {
     position: fixed;
-    height: 119%;
+    height: 105%;
     right: 100px;
     bottom: 0px;
-    width: 420px;
+    width: 410px;
     z-index: -1;
   }
 
   .icons {
     position: absolute;
-    top: 39%;
-    right: 49px;
+    top: 47%;
+    right: 45px;
     transform: translateY(-50%);
 
     display: flex;
@@ -198,7 +198,7 @@ footer span {
     line-height: 35px;
 
     text-align: center;
-    margin-top: 80px;
+    margin-top: 60px;
 
     color: #7d7987;
   }
